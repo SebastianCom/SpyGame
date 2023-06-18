@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 7117703bd54b6284db1d57431737c029
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Assassin_Main_Mesh
+    100002: Bone-Brows-L-Brow001
+    100004: Bone-Brows-L-Root-001
+    100006: Bone-Brows-R-Brow001
+    100008: Bone-Brows-R-Root-001
+    100010: Bone-Cheeks-L-Root-001
+    100012: Bone-Cheeks-L001
+    100014: Bone-Cheeks-R-Root-001
+    100016: Bone-Cheeks-R001
+    100018: Bone-EyeBall-L001
+    100020: Bone-EyeBall-R001
+    100022: Bone-EyeLids-L001
+    100024: Bone-EyeLids-R001
+    100026: Bone-Jaw-Main001
+    100028: Bone-Jaw-Nub001
+    100030: Bone-Jaw-Root001
+    100032: Bone-Mouth-L-Nub001
+    100034: Bone-Mouth-L-Root001
+    100036: Bone-Mouth-R-Nub001
+    100038: Bone-Mouth-R-Root001
+    100040: Bone_Generic_Char_MarineHead
+    100042: Bone_Generic_Char_MarineLArmCollarbone
+    100044: Bone_Generic_Char_MarineLArmForearm1
+    100046: Bone_Generic_Char_MarineLArmForearm2
+    100048: Bone_Generic_Char_MarineLArmIKTarget
+    100050: Bone_Generic_Char_MarineLArmPalm
+    100052: Bone_Generic_Char_MarineLArmUpperarm
+    100054: Bone_Generic_Char_MarineLLegAnkle
+    100056: Bone_Generic_Char_MarineLLegCalf
+    100058: Bone_Generic_Char_MarineLLegPlatform
+    100060: Bone_Generic_Char_MarineLLegThigh
+    100062: Bone_Generic_Char_MarineNeck1
+    100064: Bone_Generic_Char_MarineNeck2
+    100066: Bone_Generic_Char_MarineRAnkle
+    100068: Bone_Generic_Char_MarineRCalf
+    100070: Bone_Generic_Char_MarineRCollarbone
+    100072: Bone_Generic_Char_MarineRDigit11
+    100074: Bone_Generic_Char_MarineRDigit12
+    100076: Bone_Generic_Char_MarineRDigit13
+    100078: Bone_Generic_Char_MarineRDigit21
+    100080: Bone_Generic_Char_MarineRDigit22
+    100082: Bone_Generic_Char_MarineRDigit23
+    100084: Bone_Generic_Char_MarineRDigit31
+    100086: Bone_Generic_Char_MarineRDigit32
+    100088: Bone_Generic_Char_MarineRDigit33
+    100090: Bone_Generic_Char_MarineRForearm1
+    100092: Bone_Generic_Char_MarineRForearm2
+    100094: Bone_Generic_Char_MarineRibcage
+    100096: Bone_Generic_Char_MarineRPalm
+    100098: Bone_Generic_Char_MarineRPlatform
+    100100: Bone_Generic_Char_MarineRThigh
+    100102: Bone_Generic_Char_MarineRUpperarm
+    100104: Bone_Generic_Char_MarineSpine1
+    100106: Bone_Generic_Char_MarineSpine2
+    100108: Bone_Generic_Char_MarineSpine3
+    100110: Bone_Generic_DH_Char_MarinePelvis
+    100112: BoneROOT_Generic_Char_Marine
+    100114: //RootNode
+    100116: Gun_Handgun
+    100118: Gun_Shotgun
+    100120: MarineLArmDigit01
+    100122: MarineLArmDigit02
+    100124: MarineLArmDigit03
+    100126: MarineLArmDigit11
+    100128: MarineLArmDigit12
+    100130: MarineLArmDigit13
+    100132: MarineLArmDigit21
+    100134: MarineLArmDigit22
+    100136: MarineLArmDigit23
+    100138: MarineLArmDigit31
+    100140: MarineLArmDigit32
+    100142: MarineLArmDigit33
+    100144: MarineLArmDigit41
+    100146: MarineLArmDigit42
+    100148: MarineLArmDigit43
+    100150: MarineLLegToe
+    100152: MarineRDigit01
+    100154: MarineRDigit02
+    100156: MarineRDigit03
+    100158: MarineRDigit41
+    100160: MarineRDigit42
+    100162: MarineRDigit43
+    100164: MarineRIKTarget
+    100166: MarineRToe
+    100168: Node_Gun_Handgun
+    100170: Node_Gun_Shotgun
+    400000: Assassin_Main_Mesh
+    400002: Bone-Brows-L-Brow001
+    400004: Bone-Brows-L-Root-001
+    400006: Bone-Brows-R-Brow001
+    400008: Bone-Brows-R-Root-001
+    400010: Bone-Cheeks-L-Root-001
+    400012: Bone-Cheeks-L001
+    400014: Bone-Cheeks-R-Root-001
+    400016: Bone-Cheeks-R001
+    400018: Bone-EyeBall-L001
+    400020: Bone-EyeBall-R001
+    400022: Bone-EyeLids-L001
+    400024: Bone-EyeLids-R001
+    400026: Bone-Jaw-Main001
+    400028: Bone-Jaw-Nub001
+    400030: Bone-Jaw-Root001
+    400032: Bone-Mouth-L-Nub001
+    400034: Bone-Mouth-L-Root001
+    400036: Bone-Mouth-R-Nub001
+    400038: Bone-Mouth-R-Root001
+    400040: Bone_Generic_Char_MarineHead
+    400042: Bone_Generic_Char_MarineLArmCollarbone
+    400044: Bone_Generic_Char_MarineLArmForearm1
+    400046: Bone_Generic_Char_MarineLArmForearm2
+    400048: Bone_Generic_Char_MarineLArmIKTarget
+    400050: Bone_Generic_Char_MarineLArmPalm
+    400052: Bone_Generic_Char_MarineLArmUpperarm
+    400054: Bone_Generic_Char_MarineLLegAnkle
+    400056: Bone_Generic_Char_MarineLLegCalf
+    400058: Bone_Generic_Char_MarineLLegPlatform
+    400060: Bone_Generic_Char_MarineLLegThigh
+    400062: Bone_Generic_Char_MarineNeck1
+    400064: Bone_Generic_Char_MarineNeck2
+    400066: Bone_Generic_Char_MarineRAnkle
+    400068: Bone_Generic_Char_MarineRCalf
+    400070: Bone_Generic_Char_MarineRCollarbone
+    400072: Bone_Generic_Char_MarineRDigit11
+    400074: Bone_Generic_Char_MarineRDigit12
+    400076: Bone_Generic_Char_MarineRDigit13
+    400078: Bone_Generic_Char_MarineRDigit21
+    400080: Bone_Generic_Char_MarineRDigit22
+    400082: Bone_Generic_Char_MarineRDigit23
+    400084: Bone_Generic_Char_MarineRDigit31
+    400086: Bone_Generic_Char_MarineRDigit32
+    400088: Bone_Generic_Char_MarineRDigit33
+    400090: Bone_Generic_Char_MarineRForearm1
+    400092: Bone_Generic_Char_MarineRForearm2
+    400094: Bone_Generic_Char_MarineRibcage
+    400096: Bone_Generic_Char_MarineRPalm
+    400098: Bone_Generic_Char_MarineRPlatform
+    400100: Bone_Generic_Char_MarineRThigh
+    400102: Bone_Generic_Char_MarineRUpperarm
+    400104: Bone_Generic_Char_MarineSpine1
+    400106: Bone_Generic_Char_MarineSpine2
+    400108: Bone_Generic_Char_MarineSpine3
+    400110: Bone_Generic_DH_Char_MarinePelvis
+    400112: BoneROOT_Generic_Char_Marine
+    400114: //RootNode
+    400116: Gun_Handgun
+    400118: Gun_Shotgun
+    400120: MarineLArmDigit01
+    400122: MarineLArmDigit02
+    400124: MarineLArmDigit03
+    400126: MarineLArmDigit11
+    400128: MarineLArmDigit12
+    400130: MarineLArmDigit13
+    400132: MarineLArmDigit21
+    400134: MarineLArmDigit22
+    400136: MarineLArmDigit23
+    400138: MarineLArmDigit31
+    400140: MarineLArmDigit32
+    400142: MarineLArmDigit33
+    400144: MarineLArmDigit41
+    400146: MarineLArmDigit42
+    400148: MarineLArmDigit43
+    400150: MarineLLegToe
+    400152: MarineRDigit01
+    400154: MarineRDigit02
+    400156: MarineRDigit03
+    400158: MarineRDigit41
+    400160: MarineRDigit42
+    400162: MarineRDigit43
+    400164: MarineRIKTarget
+    400166: MarineRToe
+    400168: Node_Gun_Handgun
+    400170: Node_Gun_Shotgun
+    2100000: 'Material #527'
+    2100002: 'Material #523'
+    2300000: Gun_Handgun
+    2300002: Gun_Shotgun
+    3300000: Gun_Handgun
+    3300002: Gun_Shotgun
+    4300000: Assassin_Main_Mesh
+    4300002: Gun_Shotgun
+    4300004: Gun_Handgun
+    7400000: Take 001
+    7400002: InAir
+    7400004: Idle
+    7400006: BackPeddle
+    7400008: WalkForward
+    7400010: Run
+    7400012: StrafeLeft
+    7400014: StrafeRight
+    9500000: //RootNode
+    13700000: Assassin_Main_Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 11116
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: InAir
+      takeName: Take 001
+      firstFrame: 1175
+      lastFrame: 1235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 7
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BackPeddle
+      takeName: Take 001
+      firstFrame: 620
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkForward
+      takeName: Take 001
+      firstFrame: 155
+      lastFrame: 195
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 248
+      lastFrame: 276
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StrafeLeft
+      takeName: Take 001
+      firstFrame: 480
+      lastFrame: 505
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
